@@ -109,6 +109,10 @@
 }
 .horizontal_line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .axuretraining {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
