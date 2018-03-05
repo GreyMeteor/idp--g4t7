@@ -105,7 +105,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:195px;
+  width:252px;
   height:66px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -124,9 +124,9 @@
 #u52 {
   border-width:0px;
   position:absolute;
-  left:83px;
-  top:44px;
-  width:195px;
+  left:54px;
+  top:79px;
+  width:252px;
   height:66px;
   font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
@@ -140,7 +140,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:195px;
+  width:252px;
   white-space:nowrap;
 }
 #u53_div {
@@ -947,5 +947,30 @@
   left:2px;
   top:2px;
   width:164px;
+  word-wrap:break-word;
+}
+#u85_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:40px;
+  height:40px;
+}
+#u85 {
+  border-width:0px;
+  position:absolute;
+  left:12px;
+  top:24px;
+  width:40px;
+  height:40px;
+}
+#u85_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
