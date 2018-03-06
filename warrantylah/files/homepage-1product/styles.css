@@ -293,7 +293,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -306,7 +306,7 @@
   top:11px;
   width:209px;
   height:51px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -911,7 +911,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -922,7 +922,7 @@
   top:368px;
   width:46px;
   height:17px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -948,7 +948,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -959,7 +959,7 @@
   top:328px;
   width:110px;
   height:17px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1035,7 +1035,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1046,7 +1046,7 @@
   top:268px;
   width:84px;
   height:17px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1072,7 +1072,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1083,7 +1083,7 @@
   top:228px;
   width:68px;
   height:17px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1109,7 +1109,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1120,7 +1120,7 @@
   top:188px;
   width:83px;
   height:17px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
 }
@@ -1204,7 +1204,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Medium', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
   font-style:normal;
   color:#FFFFFF;
 }
@@ -1215,7 +1215,7 @@
   top:111px;
   width:118px;
   height:39px;
-  font-family:'Roboto Medium', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
   font-style:normal;
   color:#FFFFFF;
 }
@@ -1490,7 +1490,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:17px;
@@ -1502,7 +1502,7 @@
   top:192px;
   width:113px;
   height:20px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:17px;
@@ -1529,7 +1529,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1541,7 +1541,7 @@
   top:226px;
   width:93px;
   height:19px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1568,7 +1568,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -1581,7 +1581,7 @@
   top:247px;
   width:190px;
   height:14px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -1835,7 +1835,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1847,7 +1847,7 @@
   top:285px;
   width:134px;
   height:19px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1874,7 +1874,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -1887,7 +1887,7 @@
   top:306px;
   width:184px;
   height:14px;
-  font-family:'Roboto Bold', 'Roboto';
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -1915,7 +1915,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Medium', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:13px;
@@ -1928,7 +1928,7 @@
   top:356px;
   width:49px;
   height:15px;
-  font-family:'Roboto Medium', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:13px;
@@ -1956,7 +1956,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Roboto Medium', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:13px;
@@ -1969,7 +1969,7 @@
   top:356px;
   width:18px;
   height:15px;
-  font-family:'Roboto Medium', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:13px;
