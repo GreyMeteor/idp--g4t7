@@ -237,6 +237,8 @@
 .html_button {
   text-align:center;
 }
+.table_cell {
+}
 .refs-icon-8flat {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
@@ -305,7 +307,7 @@
   text-align:left;
 }
 .paragraph3 {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -313,14 +315,14 @@
   text-align:left;
 }
 .shape4 {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#000000;
 }
 .text_field1 {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -328,7 +330,7 @@
   text-align:left;
 }
 .image2 {
-  font-family:'Helvetica Neue Regular', 'Helvetica Neue';
+  font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -342,7 +344,7 @@
   color:#000000;
 }
 .heading_11 {
-  font-family:'Helvetica Neue Bold', 'Helvetica Neue';
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
   font-weight:700;
   font-style:normal;
   font-size:32px;
