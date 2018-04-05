@@ -579,7 +579,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Verdana Bold', 'Verdana Regular', 'Verdana';
+  font-family:'Verdana-Bold', 'Verdana Bold', 'Verdana';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -593,7 +593,7 @@
   top:40px;
   width:91px;
   height:20px;
-  font-family:'Verdana Bold', 'Verdana Regular', 'Verdana';
+  font-family:'Verdana-Bold', 'Verdana Bold', 'Verdana';
   font-weight:700;
   font-style:normal;
   font-size:16px;
